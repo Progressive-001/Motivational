@@ -1,0 +1,22 @@
+body{
+    background: black;
+}
+div{
+    text-align: center;
+}
+#moment{
+    font-family: "Libre Baskerville", serif;
+    color: white;
+    text-transform: uppercase;
+}
+#now{
+    font-family: "Libre Baskerville", serif;
+    color: white;
+}
+
+#time{
+    border: 5px solid white;
+    height: 450px;
+    width:  400px;
+    margin-top: 50px;
+}
